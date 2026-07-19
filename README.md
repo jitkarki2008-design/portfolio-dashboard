@@ -5,6 +5,8 @@ both P&L and institutional-style risk metrics (volatility, Sharpe ratio,
 max drawdown, Value at Risk, beta vs. a benchmark index). Ships with a CLI
 and a Streamlit web dashboard, both built on the same engine.
 
+🔗Live demo: https://jit-portfolio-dashboard.streamlit.app
+
 ## Why this structure
 
 - **`risk_engine.py`** — all the math (pricing, P&L, risk metrics). No UI code.
