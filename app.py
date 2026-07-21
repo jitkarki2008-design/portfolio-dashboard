@@ -7,7 +7,7 @@ metrics. All the actual math lives in risk_engine.py.
 
 Usage:
     python app.py
-    python app.py --portfolio my_holdings.csv --benchmark ^NSEI
+    python app.py --portfolio my_holdings.csv --benchmark ^NSEI...
 """
 
 import argparse
