@@ -3,7 +3,7 @@ Real-Time FinTech Portfolio Risk & Trading Dashboard (CLI)
 ===========================================================
 Reads holdings from portfolio.csv (any number of rows — not hardcoded to
 3 stocks), fetches live prices, and prints P&L plus institutional risk
-metrics. All the actual math lives in risk_engine.py..
+metrics. All the actual math lives in risk_engine.py...
 
 Usage:
     python app.py
